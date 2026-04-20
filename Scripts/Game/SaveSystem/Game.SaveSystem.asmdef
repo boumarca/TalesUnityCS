@@ -1,0 +1,17 @@
+{
+    "name": "Game.SaveSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:26aefa3d513cfe9488a4bed96d890c95",
+        "GUID:4f09e122b2f96114dbf229ab632e27f1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

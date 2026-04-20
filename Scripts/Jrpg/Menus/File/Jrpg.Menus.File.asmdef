@@ -1,0 +1,29 @@
+{
+    "name": "Jrpg.Menus.File",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1aad57122ec37de4f9d516875bb354a3",
+        "GUID:df6897feaf44dd34fb8686bf10839e05",
+        "GUID:26aefa3d513cfe9488a4bed96d890c95",
+        "GUID:a8a590c45edf6074ea3ae5386230f554",
+        "GUID:d5943dfe101ba2044b8d02ae56bfba67",
+        "GUID:6bc7e1d9b1cbded488a78ec086447892",
+        "GUID:fc7f41e013b0d8a44970321667483001",
+        "GUID:20b615f841d62954093aca3ab1c5b211",
+        "GUID:ffb758585c0b36a4ea5283fc6aacba3b",
+        "GUID:27dfaeeb9eedabc4ea0857b3cb0ef2d4",
+        "GUID:b70c5c1227058af4289998274c80bf88",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

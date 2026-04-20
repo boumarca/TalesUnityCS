@@ -1,0 +1,18 @@
+{
+    "name": "Jrpg.Dialogues.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ce3b3425b9d71a54ba34762473f01123"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

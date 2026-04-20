@@ -1,0 +1,17 @@
+{
+    "name": "Game.DialogueSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:26aefa3d513cfe9488a4bed96d890c95",
+        "GUID:05690e4f9037c8547a53733b89274cab"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

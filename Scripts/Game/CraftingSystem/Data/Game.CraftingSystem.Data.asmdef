@@ -1,0 +1,19 @@
+{
+    "name": "Game.CraftingSystem.Data",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4f09e122b2f96114dbf229ab632e27f1",
+        "GUID:fc7f41e013b0d8a44970321667483001",
+        "GUID:a5fdbf15cee0fa443845cb2d7f52cb6f",
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

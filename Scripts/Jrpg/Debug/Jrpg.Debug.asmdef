@@ -1,0 +1,31 @@
+{
+    "name": "Jrpg.Debug",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1aad57122ec37de4f9d516875bb354a3",
+        "GUID:2d7775b437a1de44f80c364555b2cf32",
+        "GUID:26aefa3d513cfe9488a4bed96d890c95",
+        "GUID:4f09e122b2f96114dbf229ab632e27f1",
+        "GUID:d806ec3acaec53b449148c78c4885717",
+        "GUID:cd0be8e103231ba4dba2c51779fc0022",
+        "GUID:6e871d1687bbb9949890447027deb43a",
+        "GUID:fbac98f6beccd8140be4aaff44f1157c",
+        "GUID:0f59b5d0798b3f641a24cd64ba3ef5b9",
+        "GUID:1f5382c90722efe44b6ac315d1a78d44",
+        "GUID:b50cf6672b8bae94da2ec24548c47db9",
+        "GUID:6bc7e1d9b1cbded488a78ec086447892",
+        "GUID:fc7f41e013b0d8a44970321667483001",
+        "GUID:20b615f841d62954093aca3ab1c5b211",
+        "GUID:a5fdbf15cee0fa443845cb2d7f52cb6f",
+        "GUID:f9074ceb4a88e944aa9a1f83a27caf5b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

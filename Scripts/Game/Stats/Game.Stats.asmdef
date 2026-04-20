@@ -1,0 +1,17 @@
+{
+    "name": "Game.Stats",
+    "rootNamespace": "",
+    "references": [
+        "GUID:26aefa3d513cfe9488a4bed96d890c95",
+        "GUID:a8a590c45edf6074ea3ae5386230f554"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

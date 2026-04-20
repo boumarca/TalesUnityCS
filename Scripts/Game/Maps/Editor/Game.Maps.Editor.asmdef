@@ -1,0 +1,25 @@
+{
+    "name": "Game.Maps.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2138d94a5d74bda4cb59f53f367cb2ab",
+        "GUID:28f029a8222c53d458216964aff6a814",
+        "GUID:2d7775b437a1de44f80c364555b2cf32",
+        "GUID:8cc79b49454380b49862e62c3a91bc13",
+        "GUID:de6e829aef786b6469ba405fb6d11149",
+        "GUID:fbac98f6beccd8140be4aaff44f1157c",
+        "GUID:06e56dbbb8dec4d43a0b85b0fe0dd0ca",
+        "GUID:18495c2ae79d2b14aa9ff8cb6556ffd2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

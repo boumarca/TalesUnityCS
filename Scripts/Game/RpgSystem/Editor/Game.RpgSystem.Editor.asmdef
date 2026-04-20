@@ -1,0 +1,19 @@
+{
+    "name": "Game.RpgSystem.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8cc79b49454380b49862e62c3a91bc13",
+        "GUID:fc7f41e013b0d8a44970321667483001"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

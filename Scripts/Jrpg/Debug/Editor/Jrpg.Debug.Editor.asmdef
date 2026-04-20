@@ -1,0 +1,30 @@
+{
+    "name": "Jrpg.Debug.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1aad57122ec37de4f9d516875bb354a3",
+        "GUID:2d7775b437a1de44f80c364555b2cf32",
+        "GUID:26aefa3d513cfe9488a4bed96d890c95",
+        "GUID:d806ec3acaec53b449148c78c4885717",
+        "GUID:cd0be8e103231ba4dba2c51779fc0022",
+        "GUID:6e871d1687bbb9949890447027deb43a",
+        "GUID:1f5382c90722efe44b6ac315d1a78d44",
+        "GUID:b50cf6672b8bae94da2ec24548c47db9",
+        "GUID:6bc7e1d9b1cbded488a78ec086447892",
+        "GUID:fc7f41e013b0d8a44970321667483001",
+        "GUID:20b615f841d62954093aca3ab1c5b211",
+        "GUID:6f84ce772cbb9a44b8a678b162188246",
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Jrpg.Dialogues",
+    "rootNamespace": "",
+    "references": [
+        "GUID:df6897feaf44dd34fb8686bf10839e05",
+        "GUID:26aefa3d513cfe9488a4bed96d890c95",
+        "GUID:b4978e45870f30d41b9b35017fe6efd4",
+        "GUID:05690e4f9037c8547a53733b89274cab",
+        "GUID:0f59b5d0798b3f641a24cd64ba3ef5b9",
+        "GUID:1f5382c90722efe44b6ac315d1a78d44",
+        "GUID:6bc7e1d9b1cbded488a78ec086447892",
+        "GUID:fc7f41e013b0d8a44970321667483001",
+        "GUID:ffb758585c0b36a4ea5283fc6aacba3b",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

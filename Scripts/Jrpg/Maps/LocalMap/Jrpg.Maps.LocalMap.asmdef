@@ -1,0 +1,33 @@
+{
+    "name": "Jrpg.Maps.LocalMap",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d3c8d4b0de14d7c42acb13209654a79c",
+        "GUID:1aad57122ec37de4f9d516875bb354a3",
+        "GUID:2d7775b437a1de44f80c364555b2cf32",
+        "GUID:df6897feaf44dd34fb8686bf10839e05",
+        "GUID:26aefa3d513cfe9488a4bed96d890c95",
+        "GUID:d4337fcfe58cd544ba33dff6478a0aa7",
+        "GUID:b4978e45870f30d41b9b35017fe6efd4",
+        "GUID:05690e4f9037c8547a53733b89274cab",
+        "GUID:de6e829aef786b6469ba405fb6d11149",
+        "GUID:e6a9138c5ccdb1f4fa762026582f0f34",
+        "GUID:fbac98f6beccd8140be4aaff44f1157c",
+        "GUID:8266a6dc05321a343b88fdb95487096f",
+        "GUID:0f59b5d0798b3f641a24cd64ba3ef5b9",
+        "GUID:b50cf6672b8bae94da2ec24548c47db9",
+        "GUID:d5943dfe101ba2044b8d02ae56bfba67",
+        "GUID:ce3b3425b9d71a54ba34762473f01123",
+        "GUID:f9074ceb4a88e944aa9a1f83a27caf5b",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

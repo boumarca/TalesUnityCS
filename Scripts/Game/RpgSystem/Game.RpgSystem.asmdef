@@ -1,0 +1,23 @@
+{
+    "name": "Game.RpgSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2138d94a5d74bda4cb59f53f367cb2ab",
+        "GUID:978aed73a0adb3a46a3470a6ee1e9d27",
+        "GUID:2d7775b437a1de44f80c364555b2cf32",
+        "GUID:26aefa3d513cfe9488a4bed96d890c95",
+        "GUID:fc7f41e013b0d8a44970321667483001",
+        "GUID:20b615f841d62954093aca3ab1c5b211",
+        "GUID:a8a590c45edf6074ea3ae5386230f554",
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

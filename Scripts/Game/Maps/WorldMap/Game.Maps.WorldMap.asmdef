@@ -1,0 +1,18 @@
+{
+    "name": "Game.Maps.WorldMap",
+    "rootNamespace": "",
+    "references": [
+        "GUID:de6e829aef786b6469ba405fb6d11149",
+        "GUID:fbac98f6beccd8140be4aaff44f1157c",
+        "GUID:06e56dbbb8dec4d43a0b85b0fe0dd0ca"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

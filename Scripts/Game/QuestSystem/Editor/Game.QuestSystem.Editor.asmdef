@@ -1,0 +1,22 @@
+{
+    "name": "Game.QuestSystem.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:28f029a8222c53d458216964aff6a814",
+        "GUID:2d7775b437a1de44f80c364555b2cf32",
+        "GUID:8cc79b49454380b49862e62c3a91bc13",
+        "GUID:0f59b5d0798b3f641a24cd64ba3ef5b9",
+        "GUID:1f5382c90722efe44b6ac315d1a78d44"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

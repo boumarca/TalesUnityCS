@@ -1,0 +1,21 @@
+{
+    "name": "Game.QuestSystem.Data",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2138d94a5d74bda4cb59f53f367cb2ab",
+        "GUID:d3c8d4b0de14d7c42acb13209654a79c",
+        "GUID:1aad57122ec37de4f9d516875bb354a3",
+        "GUID:2d7775b437a1de44f80c364555b2cf32",
+        "GUID:49b49c76ee64f6b41bf28ef951cb0e50",
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
